@@ -31,3 +31,4 @@ Does this remix qualify as fair use?
 | Negative Effect on Potential Market | Maybe | Although the remix is close enough that someone could choose this song over the original, SoundCloud has a relatively small membership and this remix probably doesn't reach many people. Also, SoundCloud is a free streaming website, and is available as a free download, so they don't profit directly.|
 
 ## Final Assessment
+After carefully examining all anticipated defenses of fair use, I conclude that this remix is in not in violation of copyright law. Though some of the properties could be argued either way, most point to a fair use of the copyrighted material in question. Of course, if the original artist had objections regardless, their decision is supported as they have all rights reserved to them. This is certainly a setback with copyright law as it stands.
